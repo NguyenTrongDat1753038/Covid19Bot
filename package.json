@@ -1,0 +1,15 @@
+{
+  "name": "covid19bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NguyenTrongDat1753038/covid19bot.git",
+  "author": "NguyenTrongDat1753038 <trongdat11ct@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.12.11",
+    "simplecrawler": "^1.1.9"
+  }
+}
